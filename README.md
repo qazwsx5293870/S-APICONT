@@ -10,7 +10,6 @@
 ## 🎯 简介
 
 **S-APICONT** 是一款专为安全研究人员设计的 Burp Suite API 收集与测试插件，帮助您快速发现和测试 Web 应用中的 API 接口。
-![Uploading image.png…]()
 
 
 插件提供两种操作模式：
